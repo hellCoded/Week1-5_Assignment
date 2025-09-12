@@ -1,0 +1,32 @@
+[
+    {
+        "name": "harshit",
+        "course": "btech",
+        "age": 20
+    },
+    {
+        "name": "rohit",
+        "course": "bpt",
+        "age": 20
+    },
+    {
+        "name": "kashish ",
+        "course": "bca ",
+        "age": 19
+    },
+    {
+        "name": "dev",
+        "course": "bca ",
+        "age": 23
+    },
+    {
+        "name": "hari ",
+        "age": 20,
+        "course": "bpt"
+    },
+    {
+        "name": "ram",
+        "age": 23,
+        "course": "mbbs"
+    }
+]
